@@ -8,6 +8,7 @@ Description: Des prenoms de filles.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Imports: prenoms, dplyr, magrittr
+Depends: prenoms
+Imports: dplyr, magrittr
 Remotes: ThinkRstat/prenoms
 RoxygenNote: 6.0.1
